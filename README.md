@@ -6,6 +6,7 @@ A fully responsive website design created using HTML, CSS & Bootstrap
 
 Screenshots
 ---------------------
+![Capture10](https://user-images.githubusercontent.com/46398353/141289832-6c5d4143-cd42-4c3a-b2c7-553b620d00ff.PNG)
 
 ![cature](https://user-images.githubusercontent.com/46398353/141289572-76c3e7de-fc24-4aad-afe8-9c6022752fd4.PNG)
 
